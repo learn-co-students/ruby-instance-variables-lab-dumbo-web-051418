@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 class Dog
   def name= (dogs_name)
@@ -15,4 +15,4 @@ lassie.name = "Lassie"
 
 puts lassie.name
 
-binding.pry
+# binding.pry
